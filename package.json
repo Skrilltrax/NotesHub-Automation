@@ -1,0 +1,17 @@
+{
+  "name": "NotesHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pending-xhr-puppeteer": "^2.1.0",
+    "puppeteer": "^3.0.4",
+    "puppeteer-autoscroll-down": "^0.1.5"
+  }
+}
